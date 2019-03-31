@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#patrick-kim-cover {
+  background-image: url("");
+}
+
+#patrick-kim-card {
+  background-image: url("");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
